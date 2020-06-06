@@ -8,4 +8,4 @@ The first slider affects the waves width. It increases quite large, and on mobil
 
 The second slider afects the waves angular velocity. Its increase is also quite large, and the waves almost seem to slow down once they go so fast! 
 
-This project was made just messing around with the P5 visualization library. 
+This project was made just messing around with the P5 visualization library. It can also be seen on jrbeltran.com.
